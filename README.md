@@ -7,4 +7,4 @@ Shiny app consisting of
 - server.R
 - ui.R
 
-A Slidify Presentation
+By sliding the slider, you can get the predicted species of iris
